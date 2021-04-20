@@ -1,19 +1,11 @@
 import express from "express";
 
+import './database' 
 const app = express();
+import { routes } from './routes';
+app.use(express.json());
+app.use(routes)
 
-
-
-
-
-
-app.get("/",(req, res)=>{
-    return res.json({message : "NLW#5 "})
-})
-
-app.post("/users",(req, res)=>{
-    return res.json({message : "User salvo com sucesso"})
-})
 
 app.listen(8080, ()=>{
     console.log("Servidor rodando")
