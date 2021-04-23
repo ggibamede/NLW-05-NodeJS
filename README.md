@@ -65,7 +65,7 @@ As tecnologias usadas no projeto foram :
 **Clone o projeto e acesse a pasta**
 
 ```bash
-$ git clone https://github.com/ggibamede/nlw-5-nodeJS.git && cd nlw-5-nodeJS
+$ git clone https://github.com/ggibamede/NLW-05-NodeJS.git && cd NLW-05-NodeJS
 ```
 
 **Siga os passos abaixo**
