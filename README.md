@@ -1,5 +1,5 @@
 <h1 align="center">
-	<!-- <img alt="Logo" src=".github/logo.png" width="200px" /> -->
+	<img alt="logo" src=".github/logo.jpg" />
   
 </h1>
 
@@ -36,9 +36,6 @@
   <a href="#-instalacão">Instalação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
-<p id="insomniaButton" align="center">
-  <a href="" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
-</p>
 
 ## 👨🏻‍💻 Sobre o projeto
 
