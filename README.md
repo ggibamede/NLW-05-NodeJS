@@ -1,5 +1,5 @@
 <h1 align="center">
-	<!-- <img alt="Logo" src=".github/logo.png" width="200px" /> -->
+	<img alt="logo" src=".github/logo.jpg" width="1000px" />
   
 </h1>
 
@@ -36,9 +36,6 @@
   <a href="#-instalacão">Instalação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
-<p id="insomniaButton" align="center">
-  <a href="" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
-</p>
 
 ## 👨🏻‍💻 Sobre o projeto
 
@@ -60,15 +57,15 @@ As tecnologias usadas no projeto foram :
 
 ## 💻 Instalacão
 
-### Requesitos
+### Requisitos
 
 - [Node.js](https://nodejs.org/en/)
-- [Yarn](https://classic.yarnpkg.com/) or [npm](https://www.npmjs.com/)
+- [Yarn](https://classic.yarnpkg.com/) ou [npm](https://www.npmjs.com/)
 
 **Clone o projeto e acesse a pasta**
 
 ```bash
-$ git clone https://github.com/ggibamede/nlw-5-nodeJS.git && cd nlw-5-nodeJS
+$ git clone https://github.com/ggibamede/NLW-05-NodeJS.git && cd NLW-05-NodeJS
 ```
 
 **Siga os passos abaixo**
