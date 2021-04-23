@@ -11,13 +11,13 @@
 </h3>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/EliasGcf/readme-template">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/ggibamede/nlw-5-nodeJS">
 
   <a href="https://www.linkedin.com/in/eliasgcf/">
-    <img alt="Made by" src="https://img.shields.io/badge/made%20by-Elias%20Gabriel-gree">
+    <img alt="Made by" src="https://img.shields.io/badge/made%20by-Gilberto%20Medeiros-gree">
   </a>
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/EliasGcf/readme-template">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/ggibamede/readme-template">
 
   <a href="https://github.com/EliasGcf/readme-template/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/EliasGcf/readme-template">
