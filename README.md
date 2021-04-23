@@ -32,8 +32,10 @@
 
 <p align="center">
   <a href="#-sobre-o-projeto">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-em-funcionamento">Em funcionamento</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-instalacão">Instalação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+	
 </p>
 
 
@@ -41,6 +43,9 @@
 
 - <p style="color: red;">Sistema de chat criado utilizando a biblioteca Socket.io para simular um atendimento com a conexão Cliente - Atendente</p>
 
+## 💻 Em funcionamento 
+
+<img alt="logo" src=".github/chatty (1).gif" width="1000px" />
 
 
 ## 🚀 Tecnologias
