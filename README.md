@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img alt="logo" src=".github/logo.jpg" />
+	<img alt="logo" src=".github/logo.jpg" width="1000px" />
   
 </h1>
 
@@ -57,7 +57,7 @@ As tecnologias usadas no projeto foram :
 
 ## 💻 Instalacão
 
-### Requesitos
+### Requisitos
 
 - [Node.js](https://nodejs.org/en/)
 - [Yarn](https://classic.yarnpkg.com/) or [npm](https://www.npmjs.com/)
