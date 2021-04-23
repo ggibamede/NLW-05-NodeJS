@@ -60,7 +60,7 @@ As tecnologias usadas no projeto foram :
 ### Requisitos
 
 - [Node.js](https://nodejs.org/en/)
-- [Yarn](https://classic.yarnpkg.com/) or [npm](https://www.npmjs.com/)
+- [Yarn](https://classic.yarnpkg.com/) ou [npm](https://www.npmjs.com/)
 
 **Clone o projeto e acesse a pasta**
 
